@@ -1,0 +1,19 @@
+{
+  "name": "package-size-badge",
+  "version": "1.0.0",
+  "description": "CLI tool for making package badges based on resource size",
+  "files": ["src"],
+  "bin": "./src/cli.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": {
+    "name": "Jesse Jurman",
+    "email": "j.r.jurman@gmail.com",
+    "url": "https://jrjurman.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "badge-maker": "^3.3.1"
+  }
+}
